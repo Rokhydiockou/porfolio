@@ -2,9 +2,7 @@ import streamlit as st
 with st. sidebar:
     with st.container(border=True):
        st. header("ACCEUIL💡")
-    
-       st.image("ro.jpeg",width=150)
-        
+
        st. divider()
         
        st. write("INFORMATION PERSONNELLE📑")
